@@ -1,0 +1,91 @@
+
+body{
+    background-image: url(./img/pexels-jéshoots-238118.jpg);
+    text-align: center;
+    color: rgb(130, 125, 121);
+
+}
+   img{
+    padding: 0;
+    margin: 0;
+    
+}
+.block1  {
+  margin-top: 500px;
+  border-style:dashed;
+  border-radius: 100px;
+  width: 600px;
+  margin-left: 400px;
+  border-color: rgba(54, 49, 49, 0.151);
+  
+}
+.block2{
+    margin-top: 500px;
+    color: rgb(57, 48, 48);
+  }
+ 
+.block2 img{
+border: solid rgb(83, 71, 71);
+border-width: 8px;
+}
+.img{
+    
+    display:flex;
+    width: 500px;
+    margin: 50px;
+}
+.img1{
+    margin: 20px;
+}
+.block3{
+    margin-top: 30%;
+   display: block;
+ align-items: center;
+ margin-left: 200px;
+ 
+}
+.block3 .blll{
+  display: flex;
+
+}
+.one{
+font-size: 20px;
+font-style: oblique;
+}
+.one p{
+margin: 20px;
+padding: 20px;
+}
+.block4{
+    margin-top: 20%;
+}
+.imgicon{
+    display:inline-block;
+    justify-content: center;
+    margin: 70px;
+    font-size: 20px;
+     font-style: italic;
+}
+.block5{
+    display:flexbox;
+    align-items: center;
+    margin-left: 100px;
+    margin-top: 30%;
+}
+.block5 .cc{
+    display: flex;
+justify-content: space-between;margin-bottom: 30%;
+}
+.block6 .ic{
+    display: flex;
+    justify-content: center;
+
+
+}
+
+
+   
+
+
+ 
+
